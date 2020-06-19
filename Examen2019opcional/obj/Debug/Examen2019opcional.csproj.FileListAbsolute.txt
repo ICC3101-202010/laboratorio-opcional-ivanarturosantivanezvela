@@ -1,0 +1,6 @@
+/Users/Ivan/Desktop/laboratorio-opcional-ivanarturosantivanezvela/Examen2019opcional/bin/Debug/Examen2019opcional.exe
+/Users/Ivan/Desktop/laboratorio-opcional-ivanarturosantivanezvela/Examen2019opcional/bin/Debug/Examen2019opcional.pdb
+/Users/Ivan/Desktop/laboratorio-opcional-ivanarturosantivanezvela/Examen2019opcional/obj/Debug/Examen2019opcional.csprojAssemblyReference.cache
+/Users/Ivan/Desktop/laboratorio-opcional-ivanarturosantivanezvela/Examen2019opcional/obj/Debug/Examen2019opcional.csproj.CoreCompileInputs.cache
+/Users/Ivan/Desktop/laboratorio-opcional-ivanarturosantivanezvela/Examen2019opcional/obj/Debug/Examen2019opcional.exe
+/Users/Ivan/Desktop/laboratorio-opcional-ivanarturosantivanezvela/Examen2019opcional/obj/Debug/Examen2019opcional.pdb

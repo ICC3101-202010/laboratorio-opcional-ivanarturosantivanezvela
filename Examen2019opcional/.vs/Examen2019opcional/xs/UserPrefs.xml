@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{B05CD1F0-7B73-4FF8-9F0C-7B840DC023E5}|Default">
-  <MonoDevelop.Ide.ItemProperties.Examen2019opcional FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Radar.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="13" />
+      <File FileName="Persona.cs" Line="13" Column="33" />
+      <File FileName="Portaaviones.cs" Line="17" Column="41" />
+      <File FileName="Submarino.cs" Line="9" Column="1" />
+      <File FileName="Fragata.cs" Line="1" Column="1" />
+      <File FileName="Reparador.cs" Line="1" Column="1" />
+      <File FileName="Radar.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Examen2019opcional" expanded="True">
+            <Node name="Examen2019opcional" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Examen2019opcional PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
