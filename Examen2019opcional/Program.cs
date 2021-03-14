@@ -6,6 +6,7 @@ namespace Examen2019opcional
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("DIANNNAAAAA");
 
             int[,] matriz;
 
